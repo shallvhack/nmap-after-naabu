@@ -23,7 +23,7 @@ echo "
 "
 if [ "$1" == "" ]
 then
-    echo"
+    echo "
 Usage:
 ./script.sh ip_list.txt
 ./script.sh ip_range (e.g., ./script.sh 192.168.1.1/24)
