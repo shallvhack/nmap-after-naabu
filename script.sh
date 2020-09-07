@@ -29,7 +29,7 @@ Twitter: https://www.twitter.com/shallvhack
 LinkedIn: https://www.linkedin.com/company/shallvhack
 
 
-
+"
 
 naabu -ports full -hL $1 -o naabu_scan.txt
 cat scan.txt | cut -d ':' -f2 | sort -u > ports.txt
