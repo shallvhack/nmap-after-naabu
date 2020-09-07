@@ -19,6 +19,16 @@ echo "
                |                                                            
 "
 
+echo "
+creator : @sengarharshit1
+https://www.twitter.com/sengarharshit1
+
+
+
+Twitter: https://www.twitter.com/shallvhack
+LinkedIn: https://www.linkedin.com/company/shallvhack
+
+
 
 
 naabu -ports full -hL $1 -o naabu_scan.txt
