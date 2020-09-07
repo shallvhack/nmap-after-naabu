@@ -1,4 +1,4 @@
-# nmap after naabu
+# Naabu to Nmap
 
 It is an automated script which run naabu first and then nmap on open ports.
 
