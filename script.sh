@@ -21,7 +21,7 @@ echo "
 
 
 "
-if [ $1 != 0 ]
+if [ $1 != NULL ]
 then
     echo"
 Usage:
