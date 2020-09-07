@@ -21,7 +21,7 @@ echo "
 
 
 "
-if [ $1 != NULL ]
+if [ "$1" == "" ]
 then
     echo"
 Usage:
