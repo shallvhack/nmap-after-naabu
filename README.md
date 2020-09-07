@@ -12,7 +12,7 @@ LinkedIn: https:// www.linkedin.com/company/shallvhack
 
 It is an automated script which run naabu first and then nmap on open ports.
 
-This script automatically scan all the IPs available in IP List with "naabu" to find open ports then It filters the open ports. It runs the NMAP on IPs with Open Ports to find running services and versions.
+This script automatically scan all the IPs available in IP List/IP Range or Single IP with "naabu" to find open ports then It filters the open ports. It runs the NMAP on IPs with Open Ports to find running services and versions.
 
 
 
