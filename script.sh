@@ -8,18 +8,16 @@ echo "
 ╚════██║██╔══██║██╔══██║██║     ██║    ╚██╗ ██╔╝██╔══██║██╔══██║██║     ██╔═██╗ 
 ███████║██║  ██║██║  ██║███████╗███████╗╚████╔╝ ██║  ██║██║  ██║╚██████╗██║  ██╗
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-   "                                                                           
-
-
+   "
 
 echo "
-creator : @sengarharshit1
-https://www.twitter.com/sengarharshit1
+                               creator : @sengarharshit1
+                          https://www.twitter.com/sengarharshit1
 
 
-
-Twitter: https://www.twitter.com/shallvhack
-LinkedIn: https://www.linkedin.com/company/shallvhack
+                        Website: www.shallvhack.com
+                        Twitter: https://www.twitter.com/shallvhack
+                        LinkedIn: https://www.linkedin.com/company/shallvhack
 
 
 "
