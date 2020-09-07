@@ -16,7 +16,7 @@ This script automatically scan all the IPs available in IP List with "naabu" to 
 
 
 
-You will get naabuscan.txt. "IP".txt files after running this script
+You will get naabuscan.txt. "nmap_IP_scan".txt files after running this script
 
 
 
